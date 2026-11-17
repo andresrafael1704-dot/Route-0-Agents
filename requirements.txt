@@ -1,0 +1,5 @@
+# Dependencias ultra-ligeras 100% compatibles con Android / Termux (Poco X4 GT)
+# Sin dependencias pesadas de C ni librerías de compilación compleja
+requests>=2.31.0
+pyTelegramBotAPI>=4.14.0
+python-dotenv>=1.0.0
